@@ -39,7 +39,7 @@ não para contratar, que é sempre da Coordenação Geral.
 | **Auditório** | R$ 11.350 | Estrutura completa — som, luz e palco não vêm com o espaço |
 | **Mezanino** | R$ 9.246 | Inclui a escuta silenciosa |
 | **Cinema** | R$ 2.500 | O mais barato: a sala já tem som e projeção próprios |
-| **Arena de Startups** | R$ 37.782 | Estrutura completa mais a operação da batalha de pitches |
+| **Arena de Startups** | R$ 17.782 | Estrutura completa, incluindo a operação da batalha de pitches |
 | **Hall de ativações** | R$ 15.679 | Onde ficam os stands das marcas |
 | Fachada | R$ 8.450 | |
 | Credenciamento (físico) | R$ 3.969 | |
@@ -48,6 +48,13 @@ não para contratar, que é sempre da Coordenação Geral.
 > mais no Cinema é quase de graça — a sala já tem tudo. A mesma palestra num espaço sem
 > estrutura significa som, luz e palco novos. **O custo não é da atividade, é do espaço em
 > que ela acontece.**
+
+> ⚠️ **A premiação da Batalha de Pitches não está nesta tabela** — são R$20.000 à parte, que
+> **dependem de patrocínio específico** e não são custo de estrutura. Corrigido em 20/09/2026:
+> até a `v2026.2` a Arena aparecia aqui com R$37.782, somando o prêmio à estrutura, o que a
+> fazia parecer o espaço mais caro do evento. Não é: **a estrutura dela custa R$17.782**,
+> quase o mesmo que o Teatro. Ao calibrar uma proposta para a Arena, use R$17.782 —
+> **premiação é conversa de captação, não de estrutura.**
 
 ### Os blocos que atravessam as frentes
 

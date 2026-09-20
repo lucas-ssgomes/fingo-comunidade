@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.2` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.2.1` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,27 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.2.1
+
+Atualização **incremental** — o terceiro número indica correção e ajuste, não pacote novo:
+nada do que você já usa mudou de lugar.
+
+O que entra é uma mudança de regra sobre o **financeiro no Drive**: aquela planilha passou a
+ser a **matriz** do planejamento de custos, não mais um espelho publicado. Na prática, quem
+tem acesso de edição e achar um erro **pode corrigir ali mesmo** — antes a orientação era o
+contrário, confirmar com a Coordenação Geral em vez de mexer.
+
+A razão é simples: mais de uma pessoa revisa esses números, e o lugar onde se corrige tem que
+ser o lugar onde todo mundo olha. Avise a Coordenação Geral do que mudar, para o registro
+acompanhar.
+
+🔴 **Correção de número, se você usou a `v2026.2` para calibrar alguma proposta:** a tabela
+de custos trazia a **Arena de Startups por R$37.782** na coluna *Custo de estrutura*. Estava
+somando ali os **R$20.000 da premiação da Batalha de Pitches**, que é prêmio em dinheiro e
+depende de patrocínio específico — não é estrutura. Isso fazia a Arena parecer o espaço mais
+caro do evento, e ela não é: **a estrutura dela custa R$17.782**, quase o mesmo que o Teatro.
+Se você dimensionou algo para a Arena pela versão anterior, **refaça a conta com R$17.782.**
 
 ### O que mudou na v2026.2
 
