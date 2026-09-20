@@ -63,13 +63,14 @@ abordadas ainda.
 |---|---|---|
 | **Curadoria** | A planilha viva de palestrantes, com painel por pilar e grades horárias por palco; a Chamada Aberta de Propostas; o histórico da edição anterior | Conteúdo |
 | **Patrocínio** | Materiais de captação e a prestação de contas da edição anterior | Negócios e Geral |
-| **Financeiro** | O espelho publicado do planejamento financeiro | Geral |
+| **Financeiro** | O planejamento financeiro do evento — é aqui que ele vive e se edita | Geral |
 | **Governança** | O Panorama Geral consolidado e o descritivo de coordenações | Todas |
 | **Edições anteriores** | A pasta da edição passada, inteira | Todas, como referência |
 
-> ⚠️ **O espelho financeiro do Drive é publicação, não origem.** Ele reflete o que a
-> Coordenação Geral importou por último. Se um número parecer estranho, confirme com ela em
-> vez de tratar a planilha do Drive como palavra final.
+> ✅ **A planilha financeira do Drive é a matriz** (20/09/2026) — é o arquivo vivo, não uma
+> cópia publicada. Quem tiver acesso de edição e encontrar um erro pode corrigir ali mesmo:
+> é justamente para permitir revisão a mais de uma mão que ela é o lugar principal. Avise a
+> Coordenação Geral do que mudou, para o registro versionado acompanhar.
 
 ## Estado da curadoria (19/09/2026)
 

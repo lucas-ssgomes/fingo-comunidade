@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.2`
+**Versão do pacote:** `v2026.2.1`
 
 ---
 
@@ -102,6 +102,12 @@ com os arquivos vivos junto deste pacote —
 [`docs-base/fontes-da-comunidade.md`](docs-base/fontes-da-comunidade.md) explica como, para
 quem funciona, e as **três regras de cuidado** com o que existe lá (a planilha de curadoria
 tem contato de mais de 100 pessoas, muitas ainda não abordadas).
+
+> 🔄 **Mudou em 20/09/2026: a planilha financeira do Drive é a matriz**, não uma cópia
+> publicada. É o arquivo vivo do planejamento de custos da edição. Quem tem acesso de edição
+> e encontrar um erro **pode corrigir ali mesmo** — é justamente para permitir revisão a mais
+> de uma mão que ela fica lá. Avise a Coordenação Geral do que mudou, para o registro
+> versionado acompanhar.
 
 ## A régua de prazo
 
