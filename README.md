@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.1` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.2` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -22,6 +22,7 @@ post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
   - [Caminho 2 — Project no Claude Desktop ou no navegador](#caminho-2--project-no-claude-desktop-ou-no-navegador)
   - [Caminho 3 — anexar arquivos numa conversa](#caminho-3--anexar-arquivos-numa-conversa-quebra-galho)
 - [Qual caminho é o seu](#qual-caminho-é-o-seu)
+- [Ampliar o contexto com o Drive](#ampliar-o-contexto-com-o-drive-da-comunidade)
 - [O primeiro teste](#o-primeiro-teste)
 - [O que ele não sabe, de propósito](#o-que-ele-não-sabe-de-propósito)
 - [Atualizações e versões](#atualizações-e-versões)
@@ -41,6 +42,8 @@ Em português normal, sem comando especial:
 | Planejar grade, palestrantes, pitches ou oficinas | "como distribuo essas palestras entre os palcos?" |
 | Planejar estrutura, escalas, montagem ou riscos | "monta a escala do credenciamento" |
 | Conduzir a coordenação e as prioridades | "o que só a Coordenação Geral pode destravar?" |
+| Preparar abordagem a patrocinador, avaliar contrapartida | "como priorizo a fila de prospecção?" |
+| Saber se uma atividade cabe no orçamento | "quanto custa botar mais uma palestra no Cinema?" |
 | Descobrir o que está travando o quê | "o que está travado esperando outra coordenação?" |
 | Um parecer independente sobre uma peça pronta | "manda o guardião da narrativa olhar isso" |
 
@@ -144,6 +147,30 @@ instalar nada.
 
 ---
 
+## Ampliar o contexto com o Drive da Comunidade
+
+Este pacote traz o repertório que cabe circular. O material de trabalho vivo — planilha de
+curadoria, documentos de coordenação, materiais das edições anteriores — mora no **Google
+Drive da Comunidade**, na pasta `FINGs`.
+
+**Se você já tem acesso a essa pasta**, vale ligar o **conector do Google Drive** no Claude
+Desktop ou no claude.ai: você passa a trabalhar com os arquivos vivos junto deste pacote, e
+a janela de contexto do Fingo fica bem maior.
+
+O passo a passo está em
+[`docs-base/fontes-da-comunidade.md`](docs-base/fontes-da-comunidade.md) — inclusive o erro
+mais comum, que é autorizar a conta Google errada.
+
+> 🔴 **Leia as três regras de cuidado nesse arquivo antes de usar.** O Drive **não passou
+> pelo filtro que este pacote passou**: a planilha de curadoria tem e-mail e telefone de mais
+> de 100 pessoas, muitas ainda nem abordadas. Não peça para o Claude listar contatos, e nada
+> de lá vai para peça pública sem passar pela coordenação responsável.
+
+**Não tem acesso à pasta?** O conector não cria permissão — peça acesso à Coordenação Geral
+primeiro.
+
+---
+
 ## O primeiro teste
 
 Seja qual for o caminho, teste com isto:
@@ -159,9 +186,15 @@ pelo nome. Se continuar, [abra uma Issue](../../issues).
 
 ## O que ele não sabe, de propósito
 
-**Orçamento, contratos, cotas, valores de patrocínio, dados de fornecedor e as transcrições
-de reunião não estão neste pacote.** Não é desconfiança: envolvem dados de terceiros,
-negociação em andamento e informação pessoal que não cabe distribuir.
+Desde a `v2026.2`, ele **sabe** o que custa cada parte do evento, as regras de gasto, quando
+uma atividade pode ser vetada e o tamanho do time.
+
+O que continua fora é o **quadro de captação**: quanto falta fechar, a tabela de cotas,
+valores por patrocinador, negociações em andamento e o histórico das edições anteriores —
+mais contratos, dados de fornecedor e transcrições de reunião.
+
+A razão é concreta: **cifra de negociação em aberto muda de lado quando circula.** Quem senta
+do outro lado da mesa passa a saber o quanto precisamos, e isso custa dinheiro ao evento.
 
 Se ele disser que não tem essa informação, está certo — não insista nem peça para ele
 estimar. **Peça o número à Coordenação Geral**, que a resposta vem.
@@ -184,12 +217,16 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
 
-### O que vem na v2
+### O que mudou na v2026.2
 
-A próxima atualização traz o repertório de **Negócios e financeiro**: contexto de
-**patrocinadores, cotas, orçamento e captação**, além das habilidades para trabalhar com
-eles. Ficou fora desta primeira versão porque é a parte que exige mais cuidado com o que
-pode e o que não pode circular — está sendo preparada.
+Entraram a habilidade de **Negócios**, a síntese de **orçamento para coordenador** (custos
+por espaço e por bloco, regras de gasto e tamanho do time) e o guia para **conectar o Drive
+da Comunidade**.
+
+### O que vem a seguir
+
+Mais contexto sintetizado a partir do Drive, conforme as frentes pedirem. **Diga o que faltou
+para a sua** — é por isso que existe a seção abaixo.
 
 Depois de 2026, o pacote continua: a parte permanente (narrativa, tom, o prédio, a
 estrutura das coordenações, o método) atravessa as edições, e o que é específico de 2026

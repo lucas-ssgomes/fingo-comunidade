@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.1`
+**Versão do pacote:** `v2026.2`
 
 ---
 
@@ -24,6 +24,8 @@ Peça em português normal, sem comando especial. O Claude escolhe a habilidade 
 | Planejar a grade, palestrantes, pitches ou oficinas | "como distribuo essas palestras entre os palcos?" |
 | Planejar estrutura, escalas, montagem ou riscos | "monta a escala do credenciamento" |
 | Conduzir a coordenação, os ritos e as prioridades | "o que só a Coordenação Geral pode destravar essa semana?" |
+| Preparar abordagem a patrocinador ou avaliar contrapartida | "como priorizo a fila de prospecção?" |
+| Saber se uma atividade cabe no orçamento | "quanto custa botar mais uma palestra no Cinema?" |
 | Descobrir o que está travando o quê | "o que está travado esperando outra coordenação?" |
 | Um parecer independente sobre uma peça pronta | "manda o guardião da narrativa olhar isso" |
 
@@ -78,6 +80,28 @@ com 130 lugares. Sempre confira a configuração do ano antes de usar um número
 
 ⚠️ **O espaço é cedido, não alugado.** Onde se pode pregar, colar ou pendurar **não é decisão
 do FING**. Pergunte ao Sesc antes de planejar qualquer fixação.
+
+## O dinheiro: o que custa e quem decide
+
+[`docs-base/orcamento-para-coordenador.md`](docs-base/orcamento-para-coordenador.md) traz o
+custo de cada espaço e de cada bloco do evento, as regras de gasto, **quando uma atividade
+nova pode ser vetada** e o tamanho do time.
+
+A regra que resolve quase tudo: **todo item tem uma fonte que o paga, e "a captar" não é
+dinheiro em caixa**. Antes de prometer qualquer coisa a alguém, confirme com a Coordenação
+Geral se a fonte daquele item já está garantida.
+
+⚠️ **O quadro de captação não está aqui** — quanto falta fechar, a tabela de cotas, os
+valores por patrocinador e as negociações em andamento ficam no canal fechado de Negócios.
+Cifra de negociação em aberto muda de lado quando circula.
+
+## Ampliar o contexto com o Drive da Comunidade
+
+Se você já tem acesso ao Drive da Comunidade, dá para conectá-lo ao seu Claude e trabalhar
+com os arquivos vivos junto deste pacote —
+[`docs-base/fontes-da-comunidade.md`](docs-base/fontes-da-comunidade.md) explica como, para
+quem funciona, e as **três regras de cuidado** com o que existe lá (a planilha de curadoria
+tem contato de mais de 100 pessoas, muitas ainda não abordadas).
 
 ## A régua de prazo
 
@@ -163,9 +187,16 @@ sinalização. Ficou combinado que **não** serão os pilares temáticos.
 
 ## O que NÃO está neste pacote, e por quê
 
-Orçamento, contratos, captação, valores de patrocínio, dados de fornecedor e as transcrições
-de reunião **ficam com a Coordenação Geral**. Não é desconfiança: é que envolvem dados de
-terceiros, negociação em andamento e informação pessoal que não cabe distribuir.
+O **quadro de captação** — quanto falta fechar, a tabela de cotas, valores por patrocinador,
+negociações em andamento e o histórico das edições anteriores. Mais os **contratos**, os
+**dados de fornecedor** e as **transcrições de reunião**.
 
-Se a sua frente precisa de um número que está desse lado, **peça** — a resposta vem, só não
-vem por download.
+Não é desconfiança. São duas razões concretas: cifra de negociação em aberto **muda de lado
+quando circula** — quem senta do outro lado da mesa passa a saber o quanto precisamos —, e
+contrato e transcrição envolvem dados de terceiros que não cabe distribuir.
+
+O que **está** aqui é o que muda decisão de coordenação: o custo de cada parte do evento, as
+regras de gasto e o tamanho do time.
+
+Se a sua frente precisa de um número que ficou do outro lado, **peça** — a resposta vem, só
+não vem por download.
