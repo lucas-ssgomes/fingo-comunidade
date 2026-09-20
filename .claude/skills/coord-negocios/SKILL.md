@@ -67,10 +67,11 @@ Em ordem, e não por ordem de chegada:
 4. **Quem depende de calendário externo** (edital, ano fiscal, comitê que só reúne em certa
    data). Esses precisam entrar cedo na fila mesmo que a conversa vá devagar.
 
-⚠️ **Patrocinador público e de governo tem ciclo próprio.** Costuma pagar na prestação de
-contas, não na assinatura — e em ano eleitoral o calendário aperta ainda mais. Isso não
-desqualifica a fonte; muda **quando** o dinheiro entra, o que é informação de fluxo de caixa
-que a Coordenação Geral precisa saber desde a primeira conversa.
+⚠️ **Patrocinador GOV tem ciclo próprio.** É como chamamos, na negociação, o patrocinador
+público ou de governo. Costuma pagar **na prestação de contas, não na assinatura** — e em ano
+eleitoral o calendário aperta ainda mais. Isso não desqualifica a fonte; muda **quando** o
+dinheiro entra, o que é informação de fluxo de caixa que a Coordenação Geral precisa saber
+desde a primeira conversa.
 
 ## O que o FING oferece, sem inventar
 
