@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.2.1` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.3` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -217,6 +217,30 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
 
+### O que mudou na v2026.3
+
+Correções de rumo — decisões dos últimos dias que mudam o que você diz ou planeja:
+
+- 🔴 **A Batalha de Pitches não tem mais prêmio em dinheiro.** O prêmio passa a ser não
+  monetário e não sai do caixa do evento; o formato ainda está em definição (mentoria com
+  palestrantes e rodada de investimento com patrocinador já contam como viáveis). **Não
+  prometa valor em dinheiro** a nenhuma startup, em peça, edital ou conversa.
+- **Padrão das legendas:** a realização é assinada com @ —
+  `@comunidadesetecolinas · @sebraepe · @sescpe` —, a hashtag da série é `#bercodeinovacao`
+  (com "de", concordando com o slogan) e a inscrição é **pelo Sympla**. A habilidade de
+  escrita já aplica.
+- **Regras que valem para todas as frentes** entram no documento de governança: jurídico
+  antes de assinar, nada colado na parede do Sesc, flâmula até 3–4 m, sem comida de
+  terceiros, instituição de ensino por edital, político fora do palco, "FING" em maiúsculas,
+  tráfego pago só a partir de outubro e o Mesa Brasil. O limite de 2 palcos simultâneos
+  aparece lá como **em aberto**.
+- **Hospedagem de palestrantes:** 20 vagas no Hotel do Sesc (10 do Sesc, 10 do Sebrae). Vaga
+  é pessoa, não quarto — o padrão é 1 palestrante + 1 acompanhante.
+- **A ART não é necessária** para o FING, que é parceiro do Sesc, não locatário. O que fica é
+  entregar o mapa de sinalização ao Sesc até 13/11.
+- **Inscrições:** abertura prevista para 25/09, não 23/09 como estava.
+- **Palestrantes confirmados:** 15, pela recontagem de 21/09.
+
 ### O que mudou na v2026.2.1
 
 Atualização **incremental** — o terceiro número indica correção e ajuste, não pacote novo:
@@ -233,8 +257,9 @@ acompanhar.
 
 🔴 **Correção de número, se você usou a `v2026.2` para calibrar alguma proposta:** a tabela
 de custos trazia a **Arena de Startups por R$37.782** na coluna *Custo de estrutura*. Estava
-somando ali os **R$20.000 da premiação da Batalha de Pitches**, que é prêmio em dinheiro e
-depende de patrocínio específico — não é estrutura. Isso fazia a Arena parecer o espaço mais
+somando ali os **R$20.000 da premiação da Batalha de Pitches**, que naquela época era um
+prêmio em dinheiro dependente de patrocínio — não estrutura. (Desde a `v2026.3` o prêmio não é
+mais em dinheiro; veja acima.) Isso fazia a Arena parecer o espaço mais
 caro do evento, e ela não é: **a estrutura dela custa R$17.782**, quase o mesmo que o Teatro.
 Se você dimensionou algo para a Arena pela versão anterior, **refaça a conta com R$17.782.**
 

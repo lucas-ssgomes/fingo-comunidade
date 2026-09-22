@@ -48,12 +48,18 @@ Detalhes de estrutura por palco no `CLAUDE.md` §4.
 
 ## Compromissos já assumidos
 
-- **Batalha de Pitches** mediada pelo **Sebrae Startups**, com premiação em dinheiro
-  estipulada para o 1º lugar e negociável para dividir entre os 3 primeiros. Valor e fonte
-  no `CLAUDE.md` §6 — depende do patrocínio master fechar
+- **Batalha de Pitches** mediada pelo **Sebrae Startups**. ⚠️ **O prêmio não é em dinheiro
+  e não sai do caixa do evento** (decisão de 20/09/2026). O formato ainda está em aberto:
+  mentoria especializada com palestrantes e rodada de investimento com algum patrocinador já
+  contam como viáveis. **Nunca prometa valor em dinheiro** — nem em peça, nem em edital, nem
+  em conversa com startup
 - **Até 3 palestrantes indicados pelo patrocinador master** na programação oficial — **só
   se o patrocínio fechar**. Reserve o espaço mentalmente, não o anuncie
-- **10 palestrantes VIP** com deslocamento e hospedagem custeados pelo Sebrae fora da rubrica
+- **Hospedagem no Hotel do Sesc: 20 vagas** — 10 cedidas pelo Sesc e 10 pelo Sebrae. **Vaga
+  é pessoa, não quarto**: o padrão de convite é 1 palestrante + 1 acompanhante, então as 20
+  vagas cobrem cerca de 10 convidados. Pedido fora do padrão passa pela Coordenação Geral
+  antes de qualquer resposta. A lista de hóspedes tem documento e data de nascimento de cada
+  pessoa: não copie esses dados para peça, mensagem ou ticket
 
 ## Como trabalhar a grade
 

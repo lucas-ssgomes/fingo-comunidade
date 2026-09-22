@@ -4,7 +4,7 @@
 > propor, prometer ou contratar. Não é a planilha: é o recorte dela que muda decisão de
 > coordenação.
 >
-> Números da edição 2026, conferidos em 19/09/2026. **A planilha completa fica com a
+> Números da edição 2026, conferidos em 22/09/2026. **A planilha completa fica com a
 > Coordenação Geral** — ver *[O que não está aqui](#o-que-não-está-aqui-e-por-quê)*.
 
 ## A regra que resolve 90% das dúvidas
@@ -49,12 +49,13 @@ não para contratar, que é sempre da Coordenação Geral.
 > estrutura significa som, luz e palco novos. **O custo não é da atividade, é do espaço em
 > que ela acontece.**
 
-> ⚠️ **A premiação da Batalha de Pitches não está nesta tabela** — são R$20.000 à parte, que
-> **dependem de patrocínio específico** e não são custo de estrutura. Corrigido em 20/09/2026:
-> até a `v2026.2` a Arena aparecia aqui com R$37.782, somando o prêmio à estrutura, o que a
-> fazia parecer o espaço mais caro do evento. Não é: **a estrutura dela custa R$17.782**,
-> quase o mesmo que o Teatro. Ao calibrar uma proposta para a Arena, use R$17.782 —
-> **premiação é conversa de captação, não de estrutura.**
+> ⚠️ **A Batalha de Pitches não tem prêmio em dinheiro.** Desde 20/09/2026 a premiação saiu
+> do orçamento: o prêmio passa a ser **não monetário** e **não sai do caixa do evento**. O
+> formato ainda está em definição — mentoria com palestrantes e rodada de investimento com
+> patrocinador já contam como viáveis. **Nunca prometa valor em dinheiro a uma startup.**
+>
+> A estrutura da Arena custa **R$17.782**, quase o mesmo que o Teatro. Até a `v2026.2` ela
+> aparecia aqui com R$37.782, somando um prêmio que não existe mais.
 
 ### Os blocos que atravessam as frentes
 

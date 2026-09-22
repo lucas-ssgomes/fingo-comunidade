@@ -132,6 +132,28 @@ representatividade dos agentes do Ecossistema.
 
 ---
 
+## Regras que valem para todas as frentes
+
+Decididas em reuniões de junho a setembro de 2026 e **não revogadas** — contam como regra para
+qualquer coordenação:
+
+- **Todo contrato passa pelo jurídico antes de assinar** (25/08).
+- **Nada colado direto na parede do Sesc**: flâmulas e PVC vão nas colunas (11/08). O espaço é
+  cedido — onde se fixa não é decisão do FING.
+- **Flâmula até 3–4 m** — a 4,5 m batia na cabeça do público em 2025 (29/06).
+- **Sem venda de comida de terceiros no prédio** — vigilância sanitária e regra do Sesc (11/08).
+- **Instituição de ensino não ganha estande** — entra por edital (11/08).
+- **Político não sobe no palco**: fala institucional é de correalizador; conteúdo, não palanque
+  (01/09).
+- **"FING" sempre em maiúsculas** (11/08).
+- **Tráfego pago só a partir de outubro** (11/08).
+- **A contrapartida do Sesc inclui arrecadar alimentos para o Mesa Brasil** (03/07).
+
+⚠️ **Ainda em aberto, apesar de parecer decidido:** máximo de **2 palcos de palestra
+simultâneos**, com até 10 min de sobreposição (29/06). É intenção, não decisão — a Coordenação
+Geral ainda fecha com Conteúdo se a logística comporta. Não trate como regra ao montar a grade:
+pergunte antes.
+
 ## Leituras que este documento habilita
 
 **Interfaces obrigatórias entre coordenadorias** — pontos onde o atraso de uma trava outra:

@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.2.1`
+**Versão do pacote:** `v2026.3`
 
 ---
 
@@ -53,7 +53,9 @@ Empreendedorismo Feminino, mesmo que a planilha da programação não a classifi
 
 A estrutura das frentes, o que cada uma responde e — o mais importante — **onde uma depende
 da outra** está em [`docs-base/governanca-coordenacoes-fing26.md`](docs-base/governanca-coordenacoes-fing26.md).
-Leia antes de assumir que algo é da sua frente ou da de outro.
+Leia antes de assumir que algo é da sua frente ou da de outro. O mesmo arquivo traz as
+**regras que valem para todas as frentes** — jurídico antes de assinar, nada colado na parede
+do Sesc, político fora do palco, tráfego pago só a partir de outubro, entre outras.
 
 Onde cada assunto se fala está em
 [`docs-base/descricoes-grupos-whatsapp.md`](docs-base/descricoes-grupos-whatsapp.md).
@@ -67,6 +69,10 @@ Onde cada assunto se fala está em
 
 **O balizador é o `tom-e-voz`.** É ele que decide se um texto está certo ou errado.
 O `storytelling` guarda a narrativa e as frases prontas que você pode usar.
+
+A **assinatura da realização, as hashtags da série e as grafias fixas** das legendas estão na
+tabela de fatos da habilidade de escrita (`.claude/skills/escrever-peca/`) — o Claude já
+aplica sozinho.
 
 ## O prédio: Centro Cultural do Sesc Garanhuns
 
@@ -136,7 +142,7 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Entrada | Gratuita |
 | Meta de inscritos | **3.000** |
 | Público esperado no local | ~2.000 |
-| Inscrições | **Sympla**, abertas desde 23/09/2026 |
+| Inscrições | **Sympla** — abertura prevista para **25/09/2026**, a confirmar com a Coordenação Geral |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
 A variante "Próspero de Inovação" está **descontinuada** — não use.
@@ -184,7 +190,7 @@ sinalização. Ficou combinado que **não** serão os pilares temáticos.
 ## O que está travado agora
 
 - 🔴 **Os nomes dos 4 palcos** — travam 7 peças gráficas com prazo de gráfica em outubro
-- 🔴 **Conteúdo é o gargalo declarado:** 16 palestrantes confirmados contra uma meta de ~50.
+- 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50.
   A chamada aberta de palestrantes e oficineiros ainda não foi lançada
 - **A abordagem da curadoria** — partir das pessoas disponíveis ou partir dos temas? Não
   decidido, e é o que trava o edital
