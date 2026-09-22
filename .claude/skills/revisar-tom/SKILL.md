@@ -23,7 +23,7 @@ apontar o que destoa e propor ajuste mínimo.
 | 4 | Tom acolhedor e confiante? | Ajustar frieza corporativa, arrogância ou provincianismo |
 | 5 | Jargão técnico está ancorado na realidade local? | Simplificar |
 | 6 | Sesc e Sebrae tratados como **correalizadores**? | Corrigir "patrocinador"/"apoiador" |
-| 7 | Slogan, data e local corretos? | "Agreste Conectado, Berço de Inovação" · 28/11/2026 · Centro Cultural do Sesc Garanhuns |
+| 7 | Slogan, data, local, assinatura e hashtags corretos? | "Agreste Conectado, Berço de Inovação" · 28/11/2026 · Centro Cultural do Sesc Garanhuns · tabela §4 de `escrever-peca` |
 | 8 | **Há frase inventada por cima da narrativa oficial?** | Marcar e propor substituição por frase do banco |
 
 ## 3. O item 8 é o mais importante

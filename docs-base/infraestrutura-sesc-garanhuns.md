@@ -211,6 +211,11 @@ Contém o Ateliê de Experimentações Artísticas.
    - **ART** = Anotação de Responsabilidade Técnica, emitida por engenheiro ou arquiteto
      registrado no CREA. Não é documento que se resolve no mesmo dia: precisa de profissional
      contratado, do croqui pronto e do recolhimento da taxa.
+
+   > ✅ **Para o FING, a ART não é necessária** — confirmado com o Sesc em 19/09/2026. A
+   > exigência vale para quem **loca** o espaço, e o FING é **parceiro, não locatário**. O que
+   > permanece é **entregar o mapa de sinalização ao Sesc até 13/11/2026**, para o Sesc saber
+   > como o prédio vai ficar. É documento que já existe, não contratação nova.
 2. O espaço conta com wi-fi e **oferece serviços de limpeza e segurança**.
 3. **A locação NÃO inclui:** alimentação, bilheteria, serviços técnicos de execução das obras
    artísticas (sonoplasta, iluminador, cenotécnico), locação de equipamentos de áudio, vídeo
