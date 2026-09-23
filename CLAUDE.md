@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.3`
+**Versão do pacote:** `v2026.4`
 
 ---
 
@@ -142,7 +142,8 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Entrada | Gratuita |
 | Meta de inscritos | **3.000** |
 | Público esperado no local | ~2.000 |
-| Inscrições | **Sympla** — abertura prevista para **25/09/2026**, a confirmar com a Coordenação Geral |
+| Inscrições | **Sympla** — abrem **sexta, 25/09/2026, à noite** |
+| Chamada aberta de conteúdo | Sai **quinta, 24/09, à noite** — propostas até **08/10**, resultado em **17/10** |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
 A variante "Próspero de Inovação" está **descontinuada** — não use.
@@ -170,7 +171,9 @@ PPT precisa de **projetor separado** — foi o que se fez em 2025, e o projetor 
 no meio da plateia para alcançar a tela. Se a palestra tem slides, prefira outro palco.
 
 ⚠️ **Os nomes dos 4 palcos ainda não foram definidos**, e isso trava as artes e a
-sinalização. Ficou combinado que **não** serão os pilares temáticos.
+sinalização. Ficou combinado que **não** serão os pilares temáticos. A decisão sai até **23/09 à
+noite** — no limite, **24/09 de manhã** —, porque a decoração começa em 24/09. A **Arena de
+Startups** já tem conceito: **ringue de boxe**.
 
 ## Os outros espaços
 
@@ -191,9 +194,23 @@ sinalização. Ficou combinado que **não** serão os pilares temáticos.
 
 - 🔴 **Os nomes dos 4 palcos** — travam 7 peças gráficas com prazo de gráfica em outubro
 - 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50.
-  A chamada aberta de palestrantes e oficineiros ainda não foi lançada
-- **A abordagem da curadoria** — partir das pessoas disponíveis ou partir dos temas? Não
-  decidido, e é o que trava o edital
+  A chamada aberta de palestrantes e oficineiros sai **quinta, 24/09, à noite**: propostas de
+  24/09 a 08/10, análise até 15/10 e resultado em 17/10. A participação é voluntária, a
+  prioridade é para quem é de Garanhuns, Caruaru e do Agreste, e **toda proposta passa pela
+  curadoria** — não prometa vaga a ninguém. ⚠️ Aqui não há pontuação regional: ela é só do
+  edital de startups
+
+## Duas regras novas (22/09)
+
+- **Post de patrocinador só depois do contrato assinado.** Nenhuma marca aparece nas redes
+  antes disso, por mais adiantada que a conversa esteja. A entrega por cota, depois da
+  assinatura: **Master** vídeo de retrospectiva exclusivo + collab · **Ouro** 3 fotos em
+  carrossel · **Prata** 1 post com logo · **Bronze** carrossel coletivo.
+- **A prestação de contas fecha até 31/12** — o último dia útil do ano. Cobre fornecedores,
+  notas fiscais, vídeos de agradecimento, After Movie e a **comprovação de cada contrapartida**
+  entregue a patrocinador. Comprovação se guarda **no dia do evento** — foto da marca no palco,
+  print do post, lista de presença —, porque reconstruir em dezembro custa bem mais. Se a sua
+  frente entrega contrapartida, planeje o registro junto com a entrega.
 
 ---
 
