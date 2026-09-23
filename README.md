@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.3` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.4` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,17 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.4
+
+- 🔴 **Datas de lançamento fechadas:** a **chamada aberta de conteúdo** sai **quinta, 24/09, à
+  noite** (propostas até 08/10, resultado em 17/10), e as **inscrições na Sympla** abrem
+  **sexta, 25/09, à noite**. Um dia de distância, para não misturar os dois públicos.
+- **Nomes dos palcos:** decisão até 23/09 à noite, no limite 24/09 de manhã — a decoração
+  começa em 24/09. A Arena de Startups tem conceito de **ringue de boxe**.
+- **Post de patrocinador só depois do contrato assinado**, com a entrega de cada cota.
+- **Prestação de contas até 31/12**, com a comprovação de contrapartida guardada no dia do
+  evento. As duas regras estão no `CLAUDE.md`, Parte 2.
 
 ### O que mudou na v2026.3
 
