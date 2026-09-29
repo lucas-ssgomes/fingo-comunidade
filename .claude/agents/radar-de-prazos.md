@@ -38,7 +38,9 @@ governança e são o seu instrumento principal:
 
 ⚠️ **A Coordenação de Comunicação está vacante** e acumulada pelo Lucas. Toda dependência que
 passa por ela passa duas vezes pela mesma pessoa. Sinalize quando isso acontecer — é o
-gargalo estrutural, não um atraso comum.
+gargalo estrutural, não um atraso comum. Desde 25/09/2026 parte da execução saiu dele (Duda
+no texto e agendamento, Ravy e Hannah no design e na gráfica, voluntários nas redes): antes de
+apontar o gargalo, veja se a entrega não é de um deles.
 
 ## Como você trabalha
 

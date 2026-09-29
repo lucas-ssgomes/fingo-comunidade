@@ -26,11 +26,16 @@ distribuir isso.
 | **Negócios** | Fábio | Coord. Geral + Guia líder da Trilha de Relacionamento |
 | **Operações** | Kédna | Coord. Geral + Guia líder da Trilha de Pessoas |
 | **Conteúdo** | Laysa | Coord. Geral + Guia líder da Trilha de Eventos |
-| **Comunicação** | ⚠️ **vacante** — Lucas assumiu acumulado | Coord. Geral + Guia líder da Trilha de Comunicação |
+| **Comunicação** | ⚠️ **sem titular** — Lucas acumula com a Geral | Coord. Geral + Guia líder da Trilha de Comunicação |
 
 > A vacância da Comunicação é o ponto de pressão da estrutura: quem já está sobrecarregado
 > na Geral acumula uma segunda coordenadoria inteira. Qualquer skill ou agente que reduza
 > carga deve priorizar esse acúmulo.
+>
+> 🔄 **Desde 25/09/2026 a carga está redistribuída — a cadeira continua sem titular.** Dois
+> voluntários cuidam das redes (um no Instagram, outro no LinkedIn: compartilhar, comentar,
+> responder e repostar nos grupos); **Duda** escreve e agenda; **Ravy** faz o design e, com
+> **Hannah**, a produção gráfica.
 
 ---
 

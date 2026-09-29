@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.4` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.5` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,25 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.5
+
+Correções de rumo — o que envelheceu desde a v2026.4:
+
+- 🔴 **Inscrições na Sympla a partir de terça, 29/09.** Uma inscrição por CPF. As oficinas
+  têm inscrição à parte, na plataforma do FING, só para quem já se inscreveu na Sympla.
+- 🔴 **A chamada aberta de conteúdo não saiu em 24/09.** Sai depois das inscrições, com meta
+  de quinta, 01/10; as datas de propostas e resultado saem junto. As datas da v2026.4 não
+  valem mais.
+- **Nomes dos palcos:** ainda não definidos, e atrasados. Até sair, use o nome do espaço.
+- **Batalha de Pitches em duelos:** duas startups por vez, banca de 3 jurados, chaveamento.
+  O prêmio continua **não monetário**.
+- **Orçamento para coordenador atualizado:** a rodada de cortes de 24/09 mexeu em
+  Comunicação, Alimentação, Brindes e Programação. O que foi cortado não volta sem fonte nova.
+- **Comunicação:** a cadeira segue sem titular, mas a carga foi redistribuída em 25/09 —
+  voluntários nas redes, Duda no texto e agendamento, Ravy e Hannah no design e na gráfica.
+- **Patrocinador só se anuncia com contrato assinado** — agora também no pacote: os nomes de
+  marca saíram da Área de Ativações e da Arena de Startups até a assinatura.
 
 ### O que mudou na v2026.4
 

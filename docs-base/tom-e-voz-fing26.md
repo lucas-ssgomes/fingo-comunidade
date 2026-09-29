@@ -68,10 +68,10 @@ com o sotaque de outra região.
 |---|---|
 | "o template de Gabriel", "falar com Fábio" | "o template do Gabriel", "falar com o Fábio" |
 | "a coordenação de Laysa", "combinar com Kédna" | "a coordenação da Laysa", "combinar com a Kédna" |
-| "o Sesc", "o Sebrae", "a Aponti", "o Porto Digital" | — |
+| "o Sesc", "o Sebrae", "a Sympla", "o Senac" | — |
 
 **A exceção é empresa, entidade e instituição**, que seguem levando artigo normalmente:
-*o Sesc*, *do Sebrae*, *a Formiguero*, *a Aponti*.
+*o Sesc*, *do Sebrae*, *a Formiguero*, *a Sympla*.
 
 > Vale para **tudo** que o projeto escreve — report, post, e-mail, proposta, documentação,
 > mensagem de commit e a conversa no chat. Não é preferência de estilo: é escrever como se

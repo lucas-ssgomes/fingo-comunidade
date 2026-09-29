@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.4`
+**Versão do pacote:** `v2026.5`
 
 ---
 
@@ -142,8 +142,8 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Entrada | Gratuita |
 | Meta de inscritos | **3.000** |
 | Público esperado no local | ~2.000 |
-| Inscrições | **Sympla** — abrem **sexta, 25/09/2026, à noite** |
-| Chamada aberta de conteúdo | Sai **quinta, 24/09, à noite** — propostas até **08/10**, resultado em **17/10** |
+| Inscrições | **Sympla** — abrem **terça, 29/09/2026**. Uma inscrição por CPF |
+| Chamada aberta de conteúdo | Sai **depois das inscrições**, com meta de **quinta, 01/10** — o documento ainda está em revisão, e o cronograma de propostas e resultado sai junto com ela |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
 A variante "Próspero de Inovação" está **descontinuada** — não use.
@@ -170,21 +170,21 @@ bem conteúdo comum. O uso recomendado é só **vídeo de patrocinador no interv
 PPT precisa de **projetor separado** — foi o que se fez em 2025, e o projetor teve que ficar
 no meio da plateia para alcançar a tela. Se a palestra tem slides, prefira outro palco.
 
-⚠️ **Os nomes dos 4 palcos ainda não foram definidos**, e isso trava as artes e a
-sinalização. Ficou combinado que **não** serão os pilares temáticos. A decisão sai até **23/09 à
-noite** — no limite, **24/09 de manhã** —, porque a decoração começa em 24/09. A **Arena de
-Startups** já tem conceito: **ringue de boxe**.
+⚠️ **Os nomes dos 4 palcos ainda não foram definidos** — o prazo era 23/09 e está atrasado —,
+e isso trava as artes e a sinalização. Ficou combinado que **não** serão os pilares temáticos.
+Até sair, não invente nome de palco em peça: use o nome do espaço (Teatro, Auditório, Cinema,
+Mezanino). A **Arena de Startups** já tem conceito: **ringue de boxe**.
 
 ## Os outros espaços
 
 | Espaço | O quê |
 |---|---|
 | **Credenciamento** | No Aquário, na entrada dos vidros |
-| **Arena de Startups** | Metade **direita** do Auditório dividido — 18 startups, batalha de pitch e matchmaking do Sebrae |
+| **Arena de Startups** | Metade **direita** do Auditório dividido — 18 startups e a **Batalha de Pitches em duelos**: duas startups por vez, banca de 3 jurados, chaveamento até o melhor pitch |
 | **Área de Ativações** (Hall) | Stands das marcas. O Hall é **só circulação, fila e visita** — não há lugar para sentar |
 | **Lounge de Negócios** (2º andar) | Restrito a palestrante, expositor, patrocinador e organização, por QR code no crachá |
 | **Corredor da Comunidade** (1º andar) | Linha do tempo dos 8 anos da Sete Colinas, mentorias e ativações |
-| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Inscrição separada, com certificado |
+| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Inscrição separada, na plataforma do FING, para quem já está inscrito na Sympla; lista de espera **presencial**; ninguém se inscreve em duas oficinas no mesmo horário. Com certificado |
 
 **Show de encerramento:** 1h30, produzido pelo Sesc, com artista do Agreste a definir.
 
@@ -193,9 +193,10 @@ Startups** já tem conceito: **ringue de boxe**.
 ## O que está travado agora
 
 - 🔴 **Os nomes dos 4 palcos** — travam 7 peças gráficas com prazo de gráfica em outubro
-- 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50.
-  A chamada aberta de palestrantes e oficineiros sai **quinta, 24/09, à noite**: propostas de
-  24/09 a 08/10, análise até 15/10 e resultado em 17/10. A participação é voluntária, a
+- 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50
+  (recontado em 28/09). A chamada aberta de palestrantes e oficineiros **não saiu em 24/09**:
+  a meta é **quinta, 01/10**, depois das inscrições, e as datas de propostas e resultado saem
+  com ela. Quem perguntar como ofertar oficina, peça que aguarde a chamada. A participação é voluntária, a
   prioridade é para quem é de Garanhuns, Caruaru e do Agreste, e **toda proposta passa pela
   curadoria** — não prometa vaga a ninguém. ⚠️ Aqui não há pontuação regional: ela é só do
   edital de startups

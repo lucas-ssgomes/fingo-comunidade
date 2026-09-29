@@ -54,9 +54,9 @@ comunicação que o FING está construindo. Não usar em nenhuma peça.
 ⚠️ O Guia de Storytelling e o Manifesto em PDF trazem "5 de setembro" e "Próspero de
 Inovação" — **estão desatualizados**. Ignore esses dois pontos ao usá-los como fonte.
 
-⚠️ **Arena de Startups** — o espaço só ganha nome de marca ("Arena *Marca* de Startups")
-**depois** que o patrocínio master estiver confirmado. Até lá, e na dúvida, escreva apenas
-"Arena de Startups".
+⚠️ **Arena de Startups** — o nome de marca só entra em peça pública **depois do contrato do
+patrocinador master assinado**. Até lá, e na dúvida, escreva apenas "Arena de Startups". Qual
+é o nome e se o contrato já foi assinado, a Coordenação Geral informa.
 
 ⚠️ **Sesc e Sebrae são correalizadores**, nunca "patrocinadores" ou "apoiadores".
 
