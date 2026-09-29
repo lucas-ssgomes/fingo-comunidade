@@ -9,6 +9,10 @@ description: Coordenar a frente de Comunicação do FING 2026 — o que precisa 
 resposta desta skill existe para **devolver tempo a ele** — não para produzir mais trabalho.
 Quando algo puder ser delegado, dizer a quem.
 
+🔄 **Desde 25/09/2026 há a quem delegar:** dois voluntários nas redes (Instagram e LinkedIn:
+compartilhar, comentar, responder, repostar nos grupos), **Duda** no texto e no agendamento,
+**Ravy** no design e, com **Hannah**, na produção gráfica. A coordenação segue com o Lucas.
+
 Escopo oficial em `docs-base/governanca-coordenacoes-fing26.md`: planejar, desenvolver e
 executar as estratégias de comunicação; relacionamento com participantes nos canais e com a
 marca; e, **em interface com a Coordenação Geral**, construir e executar a jornada de

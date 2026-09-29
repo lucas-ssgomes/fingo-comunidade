@@ -4,7 +4,7 @@
 > propor, prometer ou contratar. Não é a planilha: é o recorte dela que muda decisão de
 > coordenação.
 >
-> Números da edição 2026, conferidos em 22/09/2026. **A planilha completa fica com a
+> Números da edição 2026, conferidos em 29/09/2026. **A planilha completa fica com a
 > Coordenação Geral** — ver *[O que não está aqui](#o-que-não-está-aqui-e-por-quê)*.
 
 ## A regra que resolve 90% das dúvidas
@@ -61,20 +61,26 @@ não para contratar, que é sempre da Coordenação Geral.
 
 | Bloco | Custo | Quem mais consome |
 |---|---|---|
-| Comunicação, mídia e registro | R$ 63.325 | Comunicação — **é o maior bloco do evento** |
+| Comunicação, mídia e registro | R$ 44.930 | Comunicação — **é o maior bloco do evento** |
 | Credenciamento digital e dados | R$ 42.408 | Geral e Comunicação |
 | Cenografia e comunicação visual | R$ 21.150 | Comunicação e Operações |
-| Alimentação e hospitalidade | R$ 13.150 | Operações e Conteúdo (palestrantes) |
+| Alimentação e hospitalidade | R$ 10.900 | Operações e Conteúdo (palestrantes) |
 | Serviços operacionais | R$ 12.278 | Operações |
 | Produção | R$ 12.000 | Geral |
-| Programação e conteúdo | R$ 9.800 | Conteúdo |
+| Programação e conteúdo | R$ 6.800 | Conteúdo |
 | Acessibilidade e inclusão | R$ 8.000 | Operações e Conteúdo |
-| Brindes e experiência | R$ 8.000 | Comunicação |
+| Brindes e experiência | R$ 3.000 | Comunicação |
 | Material do participante | R$ 6.696 | Comunicação e Operações |
 
 > ⚠️ **Repare na proporção.** Comunicação e dados somados custam mais que todos os palcos
 > juntos. Quando a conversa é "onde cortar", é aqui que o dinheiro está — e é por isso que
 > proposta de mídia complementar precisa passar pela Geral antes de virar compromisso.
+>
+> ✂️ **O evento já passou por uma rodada de cortes (24/09/2026).** Saíram a mídia complementar,
+> o happy hour de encerramento e o espaço de relaxamento; o design passou para um contrato que
+> já existia; os brindes caíram de R$7.000 para R$3.000. É por isso que Comunicação,
+> Alimentação e Brindes estão menores do que na versão anterior deste documento. **O que foi
+> cortado não volta sem fonte nova.**
 
 ## Quando uma atividade pode ser vetada
 

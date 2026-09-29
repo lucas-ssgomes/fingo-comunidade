@@ -48,7 +48,9 @@ Detalhes de estrutura por palco no `CLAUDE.md` §4.
 
 ## Compromissos já assumidos
 
-- **Batalha de Pitches** mediada pelo **Sebrae Startups**. ⚠️ **O prêmio não é em dinheiro
+- **Batalha de Pitches** na Arena de Startups, em **duelos**: duas startups por vez, banca de
+  **3 jurados** e chaveamento até o melhor pitch (28/09/2026). A condução é do patrocinador
+  master da Arena; o Sebrae Startups saiu dela em 24/09. ⚠️ **O prêmio não é em dinheiro
   e não sai do caixa do evento** (decisão de 20/09/2026). O formato ainda está em aberto:
   mentoria especializada com palestrantes e rodada de investimento com algum patrocinador já
   contam como viáveis. **Nunca prometa valor em dinheiro** — nem em peça, nem em edital, nem

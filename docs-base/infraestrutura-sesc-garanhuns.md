@@ -79,8 +79,9 @@
 | Estrutura | Espaço versátil para feiras, exposições, espetáculos e eventos corporativos |
 | | Climatizado, wi-fi livre, acessível |
 
-É onde fica a **Área de Ativações**, com os stands das marcas — Porto Digital, Ponte, Sesc
-e Sebrae confirmados.
+É onde fica a **Área de Ativações**, com os stands das marcas patrocinadoras, do Sesc e do
+Sebrae. Quais marcas, a Coordenação Geral informa: patrocinador só se anuncia com contrato
+assinado.
 
 > ✅ **As startups NÃO ficam no Hall** (decisão de 19/09/2026) — elas vão para a metade
 > direita do Auditório dividido. O Hall fica com a **Área de Ativações**: só os stands das
