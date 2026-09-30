@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.5` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.5.1` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,21 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.5.1
+
+Ajustes da Sprint Semanal de 29/09:
+
+- 🔴 **Inscrições:** a data de terça, 29/09, **não vale mais**. A Coordenação Geral libera sem
+  esperar o termo do Sebrae — o item 7.6 dos termos da Sympla já cobre o uso de imagem. Não
+  divulgue data antes de ela sair.
+- **Nomes dos palcos:** vão sair de uma enquete de 24h nos Stories, com Letícia. Cada palco e
+  espaço também ganha uma cor.
+- **Site:** vai ao ar quinta, 01/10, sem a grade completa — só os nomes dos palestrantes.
+- **Meta de 3.000 inscritos:** 2.700 do público geral e ~300 de organização, palestrantes e
+  patrocinadores.
+- **Voluntariado:** com Kédna e Aline, por chamada aberta em formulário.
+- **Orçamento:** a Fachada caiu de R$8.450 para R$5.950 — o pórtico da entrada saiu.
 
 ### O que mudou na v2026.5
 
