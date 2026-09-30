@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.5`
+**Versão do pacote:** `v2026.5.1`
 
 ---
 
@@ -140,9 +140,10 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Local | Centro Cultural do Sesc Garanhuns |
 | Montagem / desmontagem | 27/11 e 29/11 |
 | Entrada | Gratuita |
-| Meta de inscritos | **3.000** |
+| Meta de inscritos | **3.000** — 2.700 do público geral e ~300 de organização, palestrantes e patrocinadores |
 | Público esperado no local | ~2.000 |
-| Inscrições | **Sympla** — abrem **terça, 29/09/2026**. Uma inscrição por CPF |
+| Inscrições | **Sympla**. Uma inscrição por CPF. A Coordenação Geral libera sem esperar o termo do Sebrae: o item 7.6 dos termos da Sympla já cobre o uso de imagem de quem vai ao evento. Não divulgue data de abertura antes de ela sair |
+| Site | Vai ao ar **quinta, 01/10**, **sem a grade completa** — só os nomes dos palestrantes. A programação sai pelo Instagram |
 | Chamada aberta de conteúdo | Sai **depois das inscrições**, com meta de **quinta, 01/10** — o documento ainda está em revisão, e o cronograma de propostas e resultado sai junto com ela |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
@@ -170,8 +171,9 @@ bem conteúdo comum. O uso recomendado é só **vídeo de patrocinador no interv
 PPT precisa de **projetor separado** — foi o que se fez em 2025, e o projetor teve que ficar
 no meio da plateia para alcançar a tela. Se a palestra tem slides, prefira outro palco.
 
-⚠️ **Os nomes dos 4 palcos ainda não foram definidos** — o prazo era 23/09 e está atrasado —,
-e isso trava as artes e a sinalização. Ficou combinado que **não** serão os pilares temáticos.
+⚠️ **Os nomes dos 4 palcos ainda não foram definidos** — vão sair de uma **enquete de 24h nos
+Stories do Instagram**, conduzida por Letícia (decisão de 29/09) —, e isso trava as artes e a
+sinalização. **Cada palco e espaço também vai ganhar uma cor**, que vira o mapa de sinalização. Ficou combinado que **não** serão os pilares temáticos.
 Até sair, não invente nome de palco em peça: use o nome do espaço (Teatro, Auditório, Cinema,
 Mezanino). A **Arena de Startups** já tem conceito: **ringue de boxe**.
 
@@ -184,13 +186,15 @@ Mezanino). A **Arena de Startups** já tem conceito: **ringue de boxe**.
 | **Área de Ativações** (Hall) | Stands das marcas. O Hall é **só circulação, fila e visita** — não há lugar para sentar |
 | **Lounge de Negócios** (2º andar) | Restrito a palestrante, expositor, patrocinador e organização, por QR code no crachá |
 | **Corredor da Comunidade** (1º andar) | Linha do tempo dos 8 anos da Sete Colinas, mentorias e ativações |
-| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Inscrição separada, na plataforma do FING, para quem já está inscrito na Sympla; lista de espera **presencial**; ninguém se inscreve em duas oficinas no mesmo horário. Com certificado |
+| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Sinalização só com o nome da sala. Inscrição separada, na plataforma do FING, para quem já está inscrito na Sympla; lista de espera **presencial**; ninguém se inscreve em duas oficinas no mesmo horário. Com certificado |
 
 **Show de encerramento:** 1h30, produzido pelo Sesc, com artista do Agreste a definir.
 
 **Acessibilidade:** 8 intérpretes de Libras, 2 por palco.
 
 ## O que está travado agora
+
+- **Voluntariado:** desde 29/09 é Kédna quem conduz, com Aline, por chamada aberta em formulário.
 
 - 🔴 **Os nomes dos 4 palcos** — travam 7 peças gráficas com prazo de gráfica em outubro
 - 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50

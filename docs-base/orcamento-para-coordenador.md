@@ -4,7 +4,7 @@
 > propor, prometer ou contratar. Não é a planilha: é o recorte dela que muda decisão de
 > coordenação.
 >
-> Números da edição 2026, conferidos em 29/09/2026. **A planilha completa fica com a
+> Números da edição 2026, conferidos em 30/09/2026. **A planilha completa fica com a
 > Coordenação Geral** — ver *[O que não está aqui](#o-que-não-está-aqui-e-por-quê)*.
 
 ## A regra que resolve 90% das dúvidas
@@ -41,7 +41,7 @@ não para contratar, que é sempre da Coordenação Geral.
 | **Cinema** | R$ 2.500 | O mais barato: a sala já tem som e projeção próprios |
 | **Arena de Startups** | R$ 17.782 | Estrutura completa, incluindo a operação da batalha de pitches |
 | **Hall de ativações** | R$ 15.679 | Onde ficam os stands das marcas |
-| Fachada | R$ 8.450 | |
+| Fachada | R$ 5.950 | O pórtico da entrada saiu em 29/09 — não tem verba |
 | Credenciamento (físico) | R$ 3.969 | |
 
 > 📌 **É daqui que sai a resposta para "posso criar mais uma atividade?"** Uma palestra a
