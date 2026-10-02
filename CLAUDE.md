@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.5.1`
+**Versão do pacote:** `v2026.5.2`
 
 ---
 
@@ -142,9 +142,10 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Entrada | Gratuita |
 | Meta de inscritos | **3.000** — 2.700 do público geral e ~300 de organização, palestrantes e patrocinadores |
 | Público esperado no local | ~2.000 |
-| Inscrições | **Sympla**. Uma inscrição por CPF. A Coordenação Geral libera sem esperar o termo do Sebrae: o item 7.6 dos termos da Sympla já cobre o uso de imagem de quem vai ao evento. Não divulgue data de abertura antes de ela sair |
-| Site | Vai ao ar **quinta, 01/10**, **sem a grade completa** — só os nomes dos palestrantes. A programação sai pelo Instagram |
-| Chamada aberta de conteúdo | Sai **depois das inscrições**, com meta de **quinta, 01/10** — o documento ainda está em revisão, e o cronograma de propostas e resultado sai junto com ela |
+| Inscrições | 🔴 **No ar desde 01/10, pelo Sympla** — o link está na bio do Instagram do FING. Uma inscrição por CPF. Só a inscrição de **Participante** é pública: palestrante, patrocinador, expositor, imprensa, apoiador e organização recebem um link próprio, por e-mail, da organização. Se alguém desses perguntar, não mande o link público — encaminhe para a Coordenação Geral |
+| Programa de embaixadores | Os Guias e Exploradores da Comunidade indicam inscritos com um **código próprio**, e um ranking mostra quem mais trouxe gente. Regras, prêmios, ranking e os links prontos de cada canal estão na [página do programa](https://claude.ai/artifact/HJwkZCfU7Y4JC3yjaAxTYt). Embaixador **não usa o próprio código** para se inscrever: entra com o ingresso de Organização |
+| Site | **No ar**, sem a grade completa — só os nomes dos palestrantes. A programação sai pelo Instagram e, mais perto do evento, numa página própria |
+| Chamada aberta de conteúdo | Prevista para **sexta, 02/10**. O cronograma de propostas e resultado sai junto com ela |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
 A variante "Próspero de Inovação" está **descontinuada** — não use.
@@ -171,24 +172,25 @@ bem conteúdo comum. O uso recomendado é só **vídeo de patrocinador no interv
 PPT precisa de **projetor separado** — foi o que se fez em 2025, e o projetor teve que ficar
 no meio da plateia para alcançar a tela. Se a palestra tem slides, prefira outro palco.
 
-⚠️ **Os nomes dos 4 palcos ainda não foram definidos** — vão sair de uma **enquete de 24h nos
-Stories do Instagram**, conduzida por Letícia (decisão de 29/09) —, e isso trava as artes e a
-sinalização. **Cada palco e espaço também vai ganhar uma cor**, que vira o mapa de sinalização. Ficou combinado que **não** serão os pilares temáticos.
-Até sair, não invente nome de palco em peça: use o nome do espaço (Teatro, Auditório, Cinema,
-Mezanino). A **Arena de Startups** já tem conceito: **ringue de boxe**.
+⚠️ **Os nomes dos 4 palcos ainda não estão confirmados.** A **enquete nos Stories** fechou em
+01/10, e a Coordenação Geral está conferindo o resultado. Até a confirmação, não use nome de
+palco em peça: use o nome do espaço (Teatro, Auditório, Cinema, Mezanino). **Cada palco e
+espaço também vai ganhar uma cor**, que vira o mapa de sinalização. A **Arena de Startups** já
+tem conceito: **ringue de boxe**.
 
 ## Os outros espaços
 
 | Espaço | O quê |
 |---|---|
-| **Credenciamento** | No Aquário, na entrada dos vidros |
-| **Arena de Startups** | Metade **direita** do Auditório dividido — 18 startups e a **Batalha de Pitches em duelos**: duas startups por vez, banca de 3 jurados, chaveamento até o melhor pitch |
+| **Credenciamento** | No Aquário, na entrada dos vidros. Um **ponto secundário no estacionamento** atende o pico e quem chega tarde, e **palestrante pode se credenciar na noite anterior** |
+| **Arena de Startups** | Metade **direita** do Auditório dividido — **18 stands** (15 por edital e 3 reservados a parceiros e à Comunidade) e a **Batalha de Pitches em duelos**: duas startups por vez, banca de 3 jurados, chaveamento até o melhor pitch. Cada stand é uma mesa bistrô, 2 banquetas e uma TV, montado pelo próprio expositor. A divisória com as palestras é só visual: quem isola o som é a **escuta silenciosa**, com fones no lado das palestras |
 | **Área de Ativações** (Hall) | Stands das marcas. O Hall é **só circulação, fila e visita** — não há lugar para sentar |
 | **Lounge de Negócios** (2º andar) | Restrito a palestrante, expositor, patrocinador e organização, por QR code no crachá |
 | **Corredor da Comunidade** (1º andar) | Linha do tempo dos 8 anos da Sete Colinas, mentorias e ativações |
-| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Sinalização só com o nome da sala. Inscrição separada, na plataforma do FING, para quem já está inscrito na Sympla; lista de espera **presencial**; ninguém se inscreve em duas oficinas no mesmo horário. Com certificado |
+| **Stand da Comunidade** | Com pelo menos uma pessoa da Comunidade o tempo todo e mentorias marcadas pelos próprios mentores voluntários. É onde quem se inscreveu com código de embaixador retira o **botton dos 8 anos**. O tamanho ainda sai da medição no Sesc |
+| **Salas de oficina** | 6 salas, ~20 pessoas cada, uso simultâneo. Sinalização só com o nome da sala. Inscrição separada, na plataforma do FING, para quem já está inscrito no Sympla; lista de espera **presencial**; ninguém se inscreve em duas oficinas no mesmo horário. Com certificado |
 
-**Show de encerramento:** 1h30, produzido pelo Sesc, com artista do Agreste a definir.
+**Show de encerramento:** 1h30, do **Selo Sesc**, produzido pelo Sesc. O artista vai ser revelado na série de posts do Selo Sesc — não antecipe o nome em peça.
 
 **Acessibilidade:** 8 intérpretes de Libras, 2 por palco.
 
@@ -196,11 +198,12 @@ Mezanino). A **Arena de Startups** já tem conceito: **ringue de boxe**.
 
 - **Voluntariado:** desde 29/09 é Kédna quem conduz, com Aline, por chamada aberta em formulário.
 
-- 🔴 **Os nomes dos 4 palcos** — travam 7 peças gráficas com prazo de gráfica em outubro
-- 🔴 **Conteúdo é o gargalo declarado:** 15 palestrantes confirmados contra uma meta de ~50
-  (recontado em 28/09). A chamada aberta de palestrantes e oficineiros **não saiu em 24/09**:
-  a meta é **quinta, 01/10**, depois das inscrições, e as datas de propostas e resultado saem
-  com ela. Quem perguntar como ofertar oficina, peça que aguarde a chamada. A participação é voluntária, a
+- 🔴 **Os nomes dos 4 palcos** — a enquete fechou, falta a confirmação. Travam 7 peças
+  gráficas com prazo de gráfica em outubro
+- 🔴 **Conteúdo é o gargalo declarado:** 16 palestrantes confirmados contra uma meta de ~50
+  (recontado em 01/10). A chamada aberta de palestrantes e oficineiros está prevista para
+  **sexta, 02/10**, e as datas de propostas e resultado saem com ela. Quem perguntar como
+  ofertar oficina, peça que aguarde a chamada. A participação é voluntária, a
   prioridade é para quem é de Garanhuns, Caruaru e do Agreste, e **toda proposta passa pela
   curadoria** — não prometa vaga a ninguém. ⚠️ Aqui não há pontuação regional: ela é só do
   edital de startups

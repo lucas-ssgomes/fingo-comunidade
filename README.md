@@ -3,14 +3,14 @@
 **O agente que ajuda as coordenações e os voluntários do FING a trabalhar.**
 
 O FING — Festival de Inovação e Negócios de Garanhuns — é organizado por voluntários da
-**Comunidade Sete Colinas**, em parceria com o Sesc e o Sebrae. O Fingo é um assistente que
+**Comunidade Sete Colinas**, com o Sesc e o Sebrae como correalizadores. O Fingo é um assistente que
 já conhece o evento: a narrativa, o tom de voz, o prédio do Sesc, a estrutura das
 coordenações e o que está acontecendo nesta edição.
 
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.5.1` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.5.2` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,24 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.5.2
+
+O que aconteceu entre 30/09 e 02/10:
+
+- 🔴 **Inscrições no ar desde 01/10, pelo Sympla**, com o link na bio do Instagram. Só a de
+  Participante é pública; palestrante, patrocinador, expositor, imprensa, apoiador e
+  organização recebem link próprio da organização, por e-mail.
+- **Programa de embaixadores:** os Guias e Exploradores indicam inscritos com um código
+  próprio. Regras, ranking e links prontos por canal estão na página do programa.
+- **Nomes dos palcos:** a enquete fechou em 01/10, mas os nomes ainda estão em conferência.
+  Até a confirmação, use o nome do espaço.
+- **Chamada aberta de conteúdo:** prevista para sexta, 02/10. **16 palestrantes confirmados.**
+- **Espaços:** ponto secundário de credenciamento no estacionamento, os 18 stands da Arena,
+  o isolamento do Auditório pela escuta silenciosa e o Stand da Comunidade.
+- **Show de encerramento:** do Selo Sesc. O artista ainda não foi revelado.
+- **Grafia:** "o Sympla", no masculino — "no Sympla", "pelo Sympla".
+- **Orçamento:** Comunicação, mídia e registro caiu para R$44.801 — o site saiu mais barato.
 
 ### O que mudou na v2026.5.1
 

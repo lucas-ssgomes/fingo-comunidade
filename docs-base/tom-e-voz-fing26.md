@@ -68,10 +68,14 @@ com o sotaque de outra região.
 |---|---|
 | "o template de Gabriel", "falar com Fábio" | "o template do Gabriel", "falar com o Fábio" |
 | "a coordenação de Laysa", "combinar com Kédna" | "a coordenação da Laysa", "combinar com a Kédna" |
-| "o Sesc", "o Sebrae", "a Sympla", "o Senac" | — |
+| "o Sesc", "o Sebrae", "o Sympla", "o Senac" | "a Sympla", "na Sympla" |
 
 **A exceção é empresa, entidade e instituição**, que seguem levando artigo normalmente:
-*o Sesc*, *do Sebrae*, *a Formiguero*, *a Sympla*.
+*o Sesc*, *do Sebrae*, *a Formiguero*, *o Sympla*.
+
+**O Sympla vai no masculino** — "no Sympla", "pelo Sympla", "do Sympla". É como o Lucas fala
+(01/10/2026); "a Sympla", de "a plataforma Sympla", soa artificial, sobretudo em mensagem
+digitada para alguém.
 
 > Vale para **tudo** que o projeto escreve — report, post, e-mail, proposta, documentação,
 > mensagem de commit e a conversa no chat. Não é preferência de estilo: é escrever como se

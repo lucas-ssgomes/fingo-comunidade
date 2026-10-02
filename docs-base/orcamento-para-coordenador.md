@@ -4,7 +4,7 @@
 > propor, prometer ou contratar. Não é a planilha: é o recorte dela que muda decisão de
 > coordenação.
 >
-> Números da edição 2026, conferidos em 30/09/2026. **A planilha completa fica com a
+> Números da edição 2026, conferidos em 02/10/2026. **A planilha completa fica com a
 > Coordenação Geral** — ver *[O que não está aqui](#o-que-não-está-aqui-e-por-quê)*.
 
 ## A regra que resolve 90% das dúvidas
@@ -61,7 +61,7 @@ não para contratar, que é sempre da Coordenação Geral.
 
 | Bloco | Custo | Quem mais consome |
 |---|---|---|
-| Comunicação, mídia e registro | R$ 44.930 | Comunicação — **é o maior bloco do evento** |
+| Comunicação, mídia e registro | R$ 44.801 | Comunicação — **é o maior bloco do evento** |
 | Credenciamento digital e dados | R$ 42.408 | Geral e Comunicação |
 | Cenografia e comunicação visual | R$ 21.150 | Comunicação e Operações |
 | Alimentação e hospitalidade | R$ 10.900 | Operações e Conteúdo (palestrantes) |
