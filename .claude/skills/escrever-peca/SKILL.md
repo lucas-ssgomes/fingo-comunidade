@@ -45,7 +45,7 @@ A narrativa é a mesma para todos — **o que muda é a porta de entrada**.
 | Contatos | comunidadesetecolinas@gmail.com · (87) 99659-4877 · @fing.festival |
 | Realização (legenda) | `Realização: @comunidadesetecolinas · @sebraepe · @sescpe` — sempre com @ e sempre **Sesc PE** |
 | Hashtags (Instagram) | `#fing2026 #agresteconectado #bercodeinovacao #garanhuns #empreendedorismo` — "de", concordando com o slogan |
-| Inscrição | **pelo Sympla**, link da bio |
+| Inscrição | **"Inscrições gratuitas"** + onde está o link (bio no Instagram, comentários no LinkedIn). **Sem citar o Sympla** em peça pública: ele não é parceiro nem paga o FING (02/10/2026). Em texto interno, "o Sympla", no masculino |
 | Endereço | R. Cônego Benigno Lira, s/nº, Centro, Garanhuns – PE — sem acento em "Benigno" e "Lira" |
 
 ⛔ **O bordão "É aqui/daqui. É nosso. É FING." está descartado** (Coordenação Geral, 22/09/2026): destoa da

@@ -8,7 +8,7 @@
 > próximo release. Para propor correção, fale com a Coordenação Geral.
 
 **Idioma de trabalho:** português (pt-BR), em tudo — textos, comentários e anotações.
-**Versão do pacote:** `v2026.5.2`
+**Versão do pacote:** `v2026.5.3`
 
 ---
 
@@ -142,10 +142,10 @@ Crie seus próprios arquivos de pendência dentro de [`todo/`](todo/) — o agen
 | Entrada | Gratuita |
 | Meta de inscritos | **3.000** — 2.700 do público geral e ~300 de organização, palestrantes e patrocinadores |
 | Público esperado no local | ~2.000 |
-| Inscrições | 🔴 **No ar desde 01/10, pelo Sympla** — o link está na bio do Instagram do FING. Uma inscrição por CPF. Só a inscrição de **Participante** é pública: palestrante, patrocinador, expositor, imprensa, apoiador e organização recebem um link próprio, por e-mail, da organização. Se alguém desses perguntar, não mande o link público — encaminhe para a Coordenação Geral |
+| Inscrições | 🔴 **No ar desde 01/10, pelo Sympla** — o link está na bio do Instagram do FING. Em peça pública, escreva **"Inscrições gratuitas"** e diga onde está o link, **sem citar o Sympla**. Uma inscrição por CPF. Só a inscrição de **Participante** é pública: palestrante, patrocinador, expositor, imprensa, apoiador e organização recebem um link próprio, por e-mail, da organização. Se alguém desses perguntar, não mande o link público — encaminhe para a Coordenação Geral |
 | Programa de embaixadores | Os Guias e Exploradores da Comunidade indicam inscritos com um **código próprio**, e um ranking mostra quem mais trouxe gente. Regras, prêmios, ranking e os links prontos de cada canal estão na [página do programa](https://claude.ai/artifact/HJwkZCfU7Y4JC3yjaAxTYt). Embaixador **não usa o próprio código** para se inscrever: entra com o ingresso de Organização |
 | Site | **No ar**, sem a grade completa — só os nomes dos palestrantes. A programação sai pelo Instagram e, mais perto do evento, numa página própria |
-| Chamada aberta de conteúdo | Prevista para **sexta, 02/10**. O cronograma de propostas e resultado sai junto com ela |
+| Chamada aberta de conteúdo | Prevista para **segunda, 05/10** (não saiu em 02/10). O cronograma de propostas e resultado sai junto com ela |
 
 **Slogan oficial:** **"Agreste Conectado, Berço de Inovação"** (Mídia Kit de 11/08).
 A variante "Próspero de Inovação" está **descontinuada** — não use.
@@ -201,8 +201,8 @@ tem conceito: **ringue de boxe**.
 - 🔴 **Os nomes dos 4 palcos** — a enquete fechou, falta a confirmação. Travam 7 peças
   gráficas com prazo de gráfica em outubro
 - 🔴 **Conteúdo é o gargalo declarado:** 16 palestrantes confirmados contra uma meta de ~50
-  (recontado em 01/10). A chamada aberta de palestrantes e oficineiros está prevista para
-  **sexta, 02/10**, e as datas de propostas e resultado saem com ela. Quem perguntar como
+  (recontado em 05/10). A chamada aberta de palestrantes e oficineiros está prevista para
+  **segunda, 05/10**, e as datas de propostas e resultado saem com ela. Quem perguntar como
   ofertar oficina, peça que aguarde a chamada. A participação é voluntária, a
   prioridade é para quem é de Garanhuns, Caruaru e do Agreste, e **toda proposta passa pela
   curadoria** — não prometa vaga a ninguém. ⚠️ Aqui não há pontuação regional: ela é só do
