@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.5.2` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.5.3` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,18 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.5.3
+
+Correções do que envelheceu entre 02/10 e 05/10:
+
+- 🔴 **Chamada aberta de conteúdo:** não saiu em 02/10. Está prevista para **segunda, 05/10**,
+  com as datas de propostas e resultado. **16 palestrantes confirmados.**
+- **Peça pública não cita o Sympla:** escreva "Inscrições gratuitas" e diga onde está o link
+  (bio no Instagram, comentários no LinkedIn). O Sympla não é parceiro do FING. Em texto
+  interno, segue "o Sympla", no masculino.
+- **Orçamento:** a contrapartida do Sesc subiu de R$44.700 para R$61.200 — o show de
+  encerramento entrou pelo valor estimado. É contrapartida: não muda o que o FING precisa captar.
 
 ### O que mudou na v2026.5.2
 

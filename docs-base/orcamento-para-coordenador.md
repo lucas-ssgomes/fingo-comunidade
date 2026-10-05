@@ -4,7 +4,7 @@
 > propor, prometer ou contratar. Não é a planilha: é o recorte dela que muda decisão de
 > coordenação.
 >
-> Números da edição 2026, conferidos em 02/10/2026. **A planilha completa fica com a
+> Números da edição 2026, conferidos em 05/10/2026. **A planilha completa fica com a
 > Coordenação Geral** — ver *[O que não está aqui](#o-que-não-está-aqui-e-por-quê)*.
 
 ## A regra que resolve 90% das dúvidas
@@ -34,7 +34,7 @@ não para contratar, que é sempre da Coordenação Geral.
 
 | Espaço | Custo de estrutura | O que está incluído |
 |---|---|---|
-| Locações e serviços do Sesc | R$ 44.700 | Contrapartida: o prédio inteiro por 3 diárias, equipe e almoço |
+| Locações e serviços do Sesc | R$ 61.200 | Contrapartida: o prédio inteiro por 3 diárias, equipe, almoço e o show de encerramento |
 | **Teatro** — palco principal | R$ 17.400 | O palco mais caro: é onde fica o painel de LED e o house mix |
 | **Auditório** | R$ 11.350 | Estrutura completa — som, luz e palco não vêm com o espaço |
 | **Mezanino** | R$ 9.246 | Inclui a escuta silenciosa |
@@ -48,6 +48,10 @@ não para contratar, que é sempre da Coordenação Geral.
 > mais no Cinema é quase de graça — a sala já tem tudo. A mesma palestra num espaço sem
 > estrutura significa som, luz e palco novos. **O custo não é da atividade, é do espaço em
 > que ela acontece.**
+
+> 📈 **A contrapartida do Sesc subiu de R$44.700 para R$61.200 (02/10/2026).** O show de
+> encerramento, contratado e pago pelo Sesc, entrou pelo valor estimado; a tabela da diretoria
+> trazia R$1.500. Não muda nada do que o FING precisa captar: é contrapartida, não sai do caixa.
 
 > ⚠️ **A Batalha de Pitches não tem prêmio em dinheiro.** Desde 20/09/2026 a premiação saiu
 > do orçamento: o prêmio passa a ser **não monetário** e **não sai do caixa do evento**. O
@@ -112,7 +116,7 @@ Para dimensionar campanha de voluntários, escala e comunicação interna:
 | Recepcionistas | 10 | Credenciamento, palcos e acessos — **a cargo da Comunidade**, ou seja, voluntariado |
 | Intérpretes de Libras | 8 | 2 por palco × 4 palcos, revezando a cada 30 min |
 | Coordenação de produção | 1 | Cobre montagem, realização e desmontagem (3 diárias) |
-| Segurança | 2 postos noturnos (27/11) + 3 diurnos (28/11) | Contratada |
+| Segurança | 2 postos noturnos (27/11) + 3 diurnos (28/11) | Contratada — ⚠️ quem paga ainda está em decisão com a Coordenação Geral |
 | Ambulância com equipe | 1 | Contratada |
 | Equipe do Sesc | cedida | Cenografia, técnicos de som, limpeza, manutenção e comedoria |
 | Técnicos de som | inclusos | Vêm junto com cada kit de som contratado |
