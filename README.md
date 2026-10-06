@@ -10,7 +10,7 @@ coordenações e o que está acontecendo nesta edição.
 Na prática, ele serve para você **não começar do zero** toda vez que precisar escrever um
 post, planejar a sua frente ou descobrir o que está travando o seu trabalho.
 
-> **Versão do pacote:** `v2026.5.3` · **Edição:** FING 2026 (28 de novembro de 2026)
+> **Versão do pacote:** `v2026.5.4` · **Edição:** FING 2026 (28 de novembro de 2026)
 
 ---
 
@@ -216,6 +216,18 @@ habilidades entram. **Cada mudança relevante vira uma versão nova**, publicada
 
 **Como saber se a sua versão está velha:** compare o número no topo deste arquivo com o
 último release. Vale conferir antes de produzir qualquer peça que vá para fora.
+
+### O que mudou na v2026.5.4
+
+Correções do que envelheceu entre 05/10 e 06/10:
+
+- 🔴 **Chamada aberta de conteúdo:** o documento fechou. **Propostas de 05 a 25/10**, análise até
+  14/11 e **resultado em 15/11**. Quem quiser ofertar palestra ou oficina entra por ela.
+- **Posts de patrocinador:** cada patrocinador tem o seu post individual; o post coletivo é só
+  para Parceiros e Apoiadores. As contrapartidas variam por patrocinador — peça a lista à
+  Coordenação Geral. Sai a antiga tabela de entrega por cota.
+- **Credencial de "Apoiador" agora se chama "Parceiro"** — "apoio" no crachá se confundia com a
+  equipe de organização.
 
 ### O que mudou na v2026.5.3
 

@@ -52,7 +52,7 @@ Cronograma, campanhas, conteúdos, necessidades dos inscritos.
 - **Meta: 3.000 inscritos** para 28/11/2026
 - A jornada de inscrição roda **no Sympla** e é **interface com a Coordenação Geral** —
   não decidir sozinho. Inscrições no ar desde **01/10/2026**; só o ingresso de Participante é
-  público, os outros (palestrante, patrocinador, expositor, imprensa, apoiador, organização)
+  público, os outros (palestrante, patrocinador, expositor, imprensa, parceiro, organização)
   vão por link específico, por e-mail
 - **O canal de cada inscrição sai do UTM no link** (`utm_source` e `utm_medium` por canal:
   bio e stories do Instagram, WhatsApp, LinkedIn, botão do site). Link sem UTM é inscrição
